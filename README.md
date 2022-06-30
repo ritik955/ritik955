@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritik955
+- 👋 Hi, I’m Ritik Gupta
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate 
