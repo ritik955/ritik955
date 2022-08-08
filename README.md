@@ -1,6 +1,5 @@
 
 
-
 <h1 align="center">Hi 👋, I'm Ritik Gupta</h1>
 <h3 align="center">Upcoming Full Stack developer</h3>
 
