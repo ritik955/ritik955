@@ -1,9 +1,14 @@
+![Hello](docs/hello.svg)
 
 
-<h1 align="center">Hi 👋, I'm Ritik Gupta</h1>
-<h3 align="center">Upcoming Full Stack developer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Ritik Gupta</h1>
+<h3 align="center">Upcoming Full Stack developer|| Computer Science Undergrad 👨🏾‍🎓 || Campus Business Manager at PrepBytes || Amazon Kindle || Learning 👨‍💻 MERN Stack</h3>
+<h4 align="center">My passion lies in solving complex problems with tailored data and algorithms.I love writing code. Ever since writing my first program in java and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problem. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
 
-<img align="centre" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <br>
+I really enjoy learning new things and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch: Email: ritikgupta866000@gmail.com</h4>
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik955&label=Profile%20views&color=0e75b6&style=flat" alt="ritik955" /> </p>
 
@@ -14,7 +19,8 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React**
-
+- 🤔 Looking for open source to contribute
+- 🔭 &nbsp;I’m currently working on something cool :wink:
 - 📫 How to reach me **ritikgupta866000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -40,4 +46,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik955&show_icons=true&locale=en" alt="ritik955" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik955&" alt="ritik955" /></p>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/ritik955/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/ritik955/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ritik955's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik955&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+  
+  <h2 align="center">Activity Graph 📈</h2>
+  <br/>
+<a href="https://github.com/ritik955/github-readme-activity-graph"><img alt="ritik's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ritik955&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+
