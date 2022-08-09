@@ -4,7 +4,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Ritik Gupta</h1>
 <h3 align="center">Upcoming Full Stack developer|| Computer Science Undergrad 👨🏾‍🎓 || Campus Business Manager at PrepBytes || Amazon Kindle || Learning 👨‍💻 MERN Stack</h3>
 <h4 align="center">My passion lies in solving complex problems with tailored data and algorithms.I love writing code. Ever since writing my first program in java and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problem. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
-
+<br>
+  <br>
   <br>
 I really enjoy learning new things and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch: Email: ritikgupta866000@gmail.com</h4>
 
